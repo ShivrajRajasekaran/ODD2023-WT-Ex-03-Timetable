@@ -51,4 +51,4 @@ Execute the program
 </html>
 ``````
 # OUPUT
-![Alt text](image.png)
+![image](https://github.com/ShivrajRajasekaran/ODD2023-WT-Ex-03-Timetable/assets/145742560/ff774abb-1ea1-4008-9fe5-0d1d798b2681)
