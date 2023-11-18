@@ -50,6 +50,5 @@ Execute the program
   </body>
 </html>
 ``````
-
 # OUPUT
 ![Alt text](image.png)
