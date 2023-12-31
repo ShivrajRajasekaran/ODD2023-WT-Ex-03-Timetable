@@ -19,6 +19,7 @@ Execute the program
   <body> 
   <table border="2" width=50% height= 10% bordercolor="blue" >
     <tr> 
+      <img src="c:\Users\admin\Pictures\Screenshots\logo.png.png" width="770" height="200">
     <th colspan ="10">TIMETABLE</th>  
     </tr> 
     <tr> 
@@ -49,6 +50,6 @@ Execute the program
     </tr>
   </body>
 </html>
-``````
 # OUPUT
-![image](https://github.com/ShivrajRajasekaran/ODD2023-WT-Ex-03-Timetable/assets/145742560/ff774abb-1ea1-4008-9fe5-0d1d798b2681)
+![32d](https://github.com/ShivrajRajasekaran/ODD2023-WT-Ex-03-Timetable/assets/145742560/299a2d6c-9be2-43c1-b894-a76723457391)
+
