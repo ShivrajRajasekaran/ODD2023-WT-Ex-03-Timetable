@@ -55,3 +55,6 @@ Execute the program
 
 ![32d](https://github.com/ShivrajRajasekaran/ODD2023-WT-Ex-03-Timetable/assets/145742560/299a2d6c-9be2-43c1-b894-a76723457391)
 
+## RESULT:
+The output was verified successfully.
+
