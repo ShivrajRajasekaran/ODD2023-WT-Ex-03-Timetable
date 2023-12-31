@@ -11,7 +11,7 @@ Add header row using th tag
 Add your timetable
 ### STEP 4
 Execute the program
-# CODE
+## CODE
 ``````
 <html>
   <head>
@@ -50,6 +50,9 @@ Execute the program
     </tr>
   </body>
 </html>
-# OUPUT
+````
+
+## OUTPUT:
+
 ![32d](https://github.com/ShivrajRajasekaran/ODD2023-WT-Ex-03-Timetable/assets/145742560/299a2d6c-9be2-43c1-b894-a76723457391)
 
