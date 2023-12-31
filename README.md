@@ -2,7 +2,7 @@
 ## AIM
 To Write a html webpage page to display your timetable.
 
-# ALGORITHM
+## ALGORITHM
 ### STEP 1
 create a simple table using table tag
 ### STEP 2
@@ -11,6 +11,7 @@ Add header row using th tag
 Add your timetable
 ### STEP 4
 Execute the program
+
 ## CODE
 ``````
 <html>
@@ -27,7 +28,6 @@ Execute the program
     <th  style="text-align: left" colspan="2">23013397</th> 
     <th  style="text-align:right" colspan="2"> Name: </th> 
     <th colspan="2">SHIVRAJ</th>
-    
     </tr> 
     <tr> 
     <td style="text-align: center";>DAYS</td> 
@@ -50,8 +50,7 @@ Execute the program
     </tr>
   </body>
 </html>
-````
-
+``````
 ## OUTPUT:
 
 ![32d](https://github.com/ShivrajRajasekaran/ODD2023-WT-Ex-03-Timetable/assets/145742560/299a2d6c-9be2-43c1-b894-a76723457391)
